@@ -43,19 +43,6 @@ VisualPainter/
 ## ⚙️ Installation & Setup
 **Prerequisites:** Python 3.7+, a working webcam
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/kartiksuri10/VisualPainter.git
-cd VisualPainter
-
-# 2. Install dependencies
-pip install opencv-python mediapipe numpy scipy
-
-# 3. Run the app
-python visualPainterMain.py
-```
-
----
 
 ## 🎮 How to Use
 | Gesture | Action |
