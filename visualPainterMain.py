@@ -99,7 +99,7 @@ def is_triangle(points, bbox):
 ##################
 
 
-folderPath = r"D:\VisualPainter\Header"
+folderPath = "Header"
 images = os.listdir(folderPath)
 
 imageList = []
