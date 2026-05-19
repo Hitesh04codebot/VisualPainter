@@ -88,5 +88,3 @@ Once recognized, the freehand stroke is replaced with a clean, pixel-perfect ver
 
 ---
 
-## 🧑‍💻 Author
-**Kartik Suri** — [LinkedIn](https://www.linkedin.com/in/kartik-suri/)
